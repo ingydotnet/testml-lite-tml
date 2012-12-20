@@ -1,0 +1,13 @@
+= This is the TestML test suite repository for TestML-Lite.
+
+TestML is an Acmeist unit test framework. This means you can use the same test
+suite for many implementations of a software library, written in different
+programming languages.
+
+TestML is parsed by Pegex (an Acmeist parsing framework), and Pegex
+implementations use TestML for testing. This leads to a bootstrapping issue, so
+TestML-Lite was created. It's a subset of the most commonly used parts of
+TestML that can be easily hand-parsed.
+
+TestML-Lite is very simple to port, so it can be used for implementations of
+Acmeist modules in languages where Pegex and TestML have not yet been ported.
