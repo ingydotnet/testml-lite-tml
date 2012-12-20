@@ -11,5 +11,3 @@ TestML that can be easily hand-parsed.
 
 TestML-Lite is very simple to port, so it can be used for implementations of
 Acmeist modules in languages where Pegex and TestML have not yet been ported.
-
-# vim: ft=rdoc
