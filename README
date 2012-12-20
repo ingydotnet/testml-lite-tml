@@ -1,3 +1,4 @@
+# -*- rdoc -*-
 = This is the TestML test suite repository for TestML-Lite.
 
 TestML is an Acmeist unit test framework. This means you can use the same test
