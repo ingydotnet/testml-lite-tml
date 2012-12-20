@@ -1,4 +1,4 @@
-= This is the TestML test suite repository for TestML-Lite.
+= The TestML test suite for TestML-Lite
 
 TestML is an Acmeist unit test framework. This means you can use the same test
 suite for many implementations of a software library, written in different
