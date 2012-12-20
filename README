@@ -1,4 +1,3 @@
-# -*- rdoc -*-
 = This is the TestML test suite repository for TestML-Lite.
 
 TestML is an Acmeist unit test framework. This means you can use the same test
@@ -12,3 +11,5 @@ TestML that can be easily hand-parsed.
 
 TestML-Lite is very simple to port, so it can be used for implementations of
 Acmeist modules in languages where Pegex and TestML have not yet been ported.
+
+# vim: ft=rdoc
