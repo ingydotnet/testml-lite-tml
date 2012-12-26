@@ -21,7 +21,7 @@ Plan = 4;
 --- lower: i like pie.
 
 === Test Two
-# This block has no 'uppoer' point, so will not be used in some tests. These
+# This block has no 'upper' point, so will not be used in some tests. These
 # data points do have trailing newlines.
 --- text
 Say it,
